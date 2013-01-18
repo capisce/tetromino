@@ -1,5 +1,3 @@
-<!-- hide script from old browsers
-
 /*
    Copyright (c) 2013 Samuel Rødal
   
@@ -938,5 +936,3 @@ function handleKeyUp(event) {
 
     return false;
 }
-
-// end hiding script from old browsers -->
